@@ -1,6 +1,6 @@
 """Author Md Abed Rahman: mdabed@cs.ualberta.ca"""
 """This method iteratively prunes outliers using
-both LOF and LSCP based outlier methods improve HDBSCAN’s performance"""
+both LOF and LSCP based outlier detection methods improve HDBSCAN’s performance"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
