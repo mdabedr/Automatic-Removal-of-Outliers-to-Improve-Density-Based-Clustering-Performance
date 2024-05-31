@@ -17,40 +17,40 @@ For this task, 6 datasets were generated with ground truth values. Each dataset 
 **Results**
 In the results section we look at each dataset individually by looking at the number of clusters discovered, the number of ground truth clusters, the number of mis-clustered points, the number of pruned inliers, etc. We also report two performance evaluation metrics, DBCV and ARI. 
 
-**Dataset 1: **
+**Dataset 1:**
 <p align="center">
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/ced777c5-0269-426c-b930-511a817f5731.png" width=50% height=50%>
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/a8bf8f10-7284-4253-9e84-295e3c57d420.png" width=50% height=50%>
 </p>
 
-**Dataset 2: **
+**Dataset 2:**
 <p align="center">
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/91e3cefd-99c7-4747-8493-4fe796249580.png" width=50% height=50%>
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/bb2e0bf1-6903-4cc4-8af8-160fb5c613f0.png" width=50% height=50%>
 </p>
 
-**Dataset 3: **
+**Dataset 3:**
 <p align="center">
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/cf964196-fe2d-4583-9bab-038a7cb24845.png" width=50% height=50%>
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/976834c6-3d33-4a3b-a0ab-64ab4e137155.png" width=50% height=50%>
 </p>
 
-**Dataset 4: **
+**Dataset 4:**
 <p align="center">
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/ced777c5-0269-426c-b930-511a817f5731.png" width=50% height=50%>
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/a8bf8f10-7284-4253-9e84-295e3c57d420.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/4dadbbe7-45d2-4ee5-a90a-e84e4bd19c4e.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/b5b8b9d5-5478-4c79-978d-394c35f37a3a.png" width=50% height=50%>
 </p>
 
-**Dataset 5: **
+**Dataset 5:**
 <p align="center">
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/ced777c5-0269-426c-b930-511a817f5731.png" width=50% height=50%>
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/a8bf8f10-7284-4253-9e84-295e3c57d420.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/216ac3da-78b5-4ca9-a477-ed05d745b6a6.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/83912909-618f-4557-926b-c0436412f934.png" width=50% height=50%>
 </p>
 
-**Dataset 6: **
+**Dataset 6:**
 <p align="center">
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/ced777c5-0269-426c-b930-511a817f5731.png" width=50% height=50%>
-<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/a8bf8f10-7284-4253-9e84-295e3c57d420.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/6c89af12-3e06-4483-98ef-64e1e7170222.png" width=50% height=50%>
+<img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/1a15677c-ea20-4f8f-8e90-3bc5bef8bde8.png" width=50% height=50%>
 </p>
 
 
