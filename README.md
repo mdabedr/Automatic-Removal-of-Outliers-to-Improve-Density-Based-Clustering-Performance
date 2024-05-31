@@ -12,7 +12,7 @@ For this task, 6 datasets were generated with ground truth values. Each dataset 
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/a84d20dd-e12d-44f4-bec8-cfdeea833d4a.png" width=50% height=50%>
 <img src="https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/41d15437-066c-4415-8d23-8302cf0f3db1.png" width=50% height=50%>
 </p>
-![Screenshot 2024-05-31 120928](https://github.com/mdabedr/Automatic-Removal-of-Outliers-to-Improve-Density-Based-Clustering-Performance/assets/35268893/09b377be-d5bd-4a03-a87d-1fd57323534b)
+
 
 **Results**
 In the results section we look at each dataset individually by looking at the number of clusters discovered, the number of ground truth clusters, the number of mis-clustered points, the number of pruned inliers, etc. We also report two performance evaluation metrics, DBCV and ARI. 
